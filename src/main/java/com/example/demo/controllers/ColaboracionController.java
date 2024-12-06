@@ -16,7 +16,7 @@ import com.example.demo.models.Persona.Persona;
 
 @RestController
 @RequestMapping("/service-2")
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://heladeras-dds.vercel.app/")
 public class ColaboracionController {
 
     @Autowired
