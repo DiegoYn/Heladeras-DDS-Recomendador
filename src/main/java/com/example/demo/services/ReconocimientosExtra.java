@@ -26,20 +26,26 @@ public class ReconocimientosExtra {
     private ColaboracionRepository colaboracionRepository;
 
     public List<Persona> recomendarPersonas(double puntosReq, double viandasDonadasReq, int cantMaxColabs) {
+        System.out.println("hola");
         List<Persona> personasRecomendadas = new ArrayList<>();
 
         // Obtener la lista de todos los colaboradores desde la base de datos
-        List<Colaborador> colaboradores = colaboradorRepository.findAll();
-
+        List<Colaborador> colaboradores = colaboradorRepository.findColaboradoresWithPersonasHumanas();
+        for (Colaborador colaborador : colaboradores) {
+            System.out.println("Colaborador con uuid: " + colaborador.getUUID());
+        }
         // Filtrar los colaboradores que cumplen con los requisitos
         for (Colaborador colaborador : colaboradores) {
             if (colaborador.getUUID() != null) {
+                System.out.println("Colaborador con uuid: " + colaborador.getUUID());
                 double puntosColaborador = calculadoraPuntosService.calcularPuntos(colaborador.getUUID());
 
                 int viandasDonadasUltimoMes = getViandasDonadas(colaborador, 30);
 
                 if (puntosColaborador >= puntosReq && viandasDonadasUltimoMes >= viandasDonadasReq) {
+
                     Persona persona = colaborador.getPersona();
+                    System.out.println("Persona con nombre: " + persona.getNombre());
                     if (persona != null) {
                         personasRecomendadas.add(persona);
                     }

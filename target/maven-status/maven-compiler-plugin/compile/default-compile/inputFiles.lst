@@ -1,60 +1,60 @@
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\config\AppConfig.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\controllers\ColaboracionController.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\DemoApplication.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\Colaboracion.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DistribucionViandas.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DonacionDinero.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DonacionViandas\DonacionVianda.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DonacionViandas\Vianda.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\ObtencionHeladera.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\Ofertas\Canje.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\Ofertas\Oferta.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\RegistroPersonaVulnerable.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Enums\MotivoApertura.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Enums\TipoContacto.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Enums\TipoEvento.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Heladera.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\Incidente\Alerta.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\Incidente\FallaTecnica.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\Incidente\Incidente.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\VisitaTecnico.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Punto.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Sensores\Sensor.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Sensores\SensorMovimiento.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Sensores\SensorTemperatura.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\UbicacionGoogleMaps.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Observer\ObservadorHeladera.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Observer\ObservadorSuscripcion.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Observer\Observer.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Contacto.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Email.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Telefono.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Telegram.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Whatsapp.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Documento.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Persona.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\PersonaHumana.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\PersonaJuridica.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\FallasPorHeladera.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\Reporte.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\ViandasMovidasPorColaborador.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\ViandasMovidasPorHeladera.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Colaborador.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\PersonaVulnerable.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Rol.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Tecnico\AreaCobertura.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Tecnico\Tecnico.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Solicitudes\SolicitudApertura.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\Desperfecto.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\Evento.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\MuchasViandas.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\PocasViandas.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Suscripcion.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\Apertura.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\Tarjeta.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\TarjetaColaborador.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\TarjetaPersVuln.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\repositories\ColaboracionRepository.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\repositories\ColaboradorRepository.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\services\CalculadoraPuntosService.java
-C:\Users\diego\OneDrive\Escritorio\1\tp-anual-disenio\src\main\java\com\example\demo\services\ReconocimientosExtra.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\config\AppConfig.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\controllers\ColaboracionController.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\Colaboracion.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DistribucionViandas.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DonacionDinero.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DonacionViandas\DonacionVianda.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\DonacionViandas\Vianda.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\ObtencionHeladera.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\Ofertas\Canje.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\Ofertas\Oferta.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Colaboraciones\RegistroPersonaVulnerable.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Enums\MotivoApertura.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Enums\TipoContacto.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Enums\TipoEvento.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Heladera.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\Incidente\Alerta.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\Incidente\FallaTecnica.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\Incidente\Incidente.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Incidentes\VisitaTecnico.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Punto.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Sensores\Sensor.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Sensores\SensorMovimiento.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\Sensores\SensorTemperatura.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Heladera\UbicacionGoogleMaps.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Observer\ObservadorHeladera.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Observer\ObservadorSuscripcion.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Observer\Observer.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Contacto.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Email.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Telefono.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Telegram.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Contacto\Whatsapp.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Documento.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\Persona.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\PersonaHumana.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Persona\PersonaJuridica.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\FallasPorHeladera.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\Reporte.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\ViandasMovidasPorColaborador.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Reportes\ViandasMovidasPorHeladera.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Colaborador.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\PersonaVulnerable.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Rol.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Tecnico\AreaCobertura.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Rol\Tecnico\Tecnico.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Solicitudes\SolicitudApertura.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\Desperfecto.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\Evento.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\MuchasViandas.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Evento\PocasViandas.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Suscripciones\Suscripcion.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\Apertura.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\Tarjeta.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\TarjetaColaborador.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\models\Tarjetas\TarjetaPersVuln.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\repositories\ColaboracionRepository.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\repositories\ColaboradorRepository.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\services\CalculadoraPuntosService.java
+C:\Users\diego\OneDrive\Escritorio\Tp\Recomendador colaboradores\tp-anual-disenio\src\main\java\com\example\demo\services\ReconocimientosExtra.java
